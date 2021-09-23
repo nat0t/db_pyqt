@@ -5,6 +5,7 @@
 недоступен»). При этом ip-адрес сетевого узла должен создаваться с помощью функции ip_address().
 """
 import ipaddress
+import os
 import platform
 import socket
 import subprocess
